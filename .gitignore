@@ -39,5 +39,6 @@ playwright/.cache
 # Riwayat chat Freebuff (jangan pernah di-push ke repo publik)
 chat-history/
 chat-history.md
+chat-history.zip
 .freebuff/
 
