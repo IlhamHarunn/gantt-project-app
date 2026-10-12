@@ -4,6 +4,16 @@ Aplikasi manajemen proyek berbasis **Gantt Chart** dengan **React + TypeScript +
 Seluruh data disimpan di **localStorage** (sudah dilengkapi data contoh / seed), sehingga
 aplikasi dapat langsung dipakai tanpa backend.
 
+## Tangkapan Layar (Screenshot)
+
+**Halaman Tugas** — tabel tugas dengan penomoran bertingkat, durasi, prioritas, progres, dan aksi CRUD:
+
+![Halaman Tugas](ss1.png)
+
+**Form Tambah Tugas** — formulir untuk menambah/mengubah tugas, termasuk pendahulu (predecessor) dan alokasi anggota:
+
+![Form Tambah Tugas](ss2.png)
+
 ## Fitur
 
 1. **Manajemen Tugas**
